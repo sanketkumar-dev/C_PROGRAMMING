@@ -1,0 +1,1 @@
+// P27. Write a C program to determine whether a given character is a vowel or consonant.

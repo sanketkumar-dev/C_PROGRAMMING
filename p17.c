@@ -1,0 +1,1 @@
+// P17. Write a C program to demonstrate pre-decrement and post-decrement operators.

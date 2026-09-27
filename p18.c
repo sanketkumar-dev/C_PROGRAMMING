@@ -1,0 +1,1 @@
+// P18. Write a C program to demonstrate data type conversion (type casting).

@@ -1,0 +1,1 @@
+// P25. Write a C program to find the greatest of three numbers using the conditional operator.

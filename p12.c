@@ -1,0 +1,1 @@
+// P12. Write a C program to find the average of three numbers.

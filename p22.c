@@ -1,0 +1,1 @@
+// P22. Write a C program to check whether a number is positive, negative or zero.
